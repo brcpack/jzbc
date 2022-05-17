@@ -1,0 +1,17 @@
+{
+    "name": "yyds",
+    "description": "yyds",
+    "keywords": ["yyds"],
+    "env": {
+        "id": {
+            "description": "id",
+            "value": "d84499ce-a045-4fee-a77d-0f24dfffaa15"
+        },
+        "PORT": {
+            "description": "port",
+            "value": "8080"
+}
+    },
+    "repository": "",
+    "stack": "container"
+}
