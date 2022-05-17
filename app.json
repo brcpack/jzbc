@@ -1,11 +1,11 @@
 {
-    "name": "yyds",
-    "description": "yyds",
-    "keywords": ["yyds"],
+    "name": "jzbc",
+    "description": "jzbc",
+    "keywords": ["jzbc"],
     "env": {
         "id": {
             "description": "id",
-            "value": "d84499ce-a045-4fee-a77d-0f24dfffaa15"
+            "value": "9c960463-c5a5-4e43-a6c7-f49140cd148a"
         },
         "PORT": {
             "description": "port",
